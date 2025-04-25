@@ -9,7 +9,8 @@ guess_count  = 0
 low = 1
 high = 100
 
-print("\t\t\t\t\tW E L C O M E \nINSTRUCTIONS :- You have to guess the number in between 10 guesses otherwise you will lose ")
+print("\t\t\t\t\tW E L C O M E \n")
+print("INSTRUCTIONS :-\n\t\t You have to guess the number in between 10 guesses otherwise you will lose ")
 
 while guess_count<=9:
 
